@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rockci
 #### I am a creator of bots in Discord
-![I am a creator of bots in Discord](https://cdn.discordapp.com/attachments/788810278196084746/859157258234888212/unnamed.jpg)
+![I am a creator of bots in Discord, Website Creators](https://cdn.discordapp.com/attachments/788810278196084746/859157258234888212/unnamed.jpg)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
