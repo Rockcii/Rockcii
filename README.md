@@ -15,7 +15,7 @@ Skills: JavaScript / REACT / JS / HTML / CSS / С++
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rockcii&show_icons=true)  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://open.spotify.com/user/p67wf0kpm7qqplo3qcm8fm555?si=8178b63a1b6f46bf)
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)
 ![Generic badge](https://img.shields.io/badge/Github-Offline-Green)
