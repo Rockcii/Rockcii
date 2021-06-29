@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Rockci
 #### I am a creator of bots in Discord, Website Creators
-![I am a creator of bots in Discord](https://i.gifer.com/7Afe.gif)
+![I am a creator of bots in Discord]
+(https://i.gifer.com/7Afe.gif)
 
 
 Skills: JavaScript / REACT / JS / HTML / CSS / С++
