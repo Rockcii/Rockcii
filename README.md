@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rockci
 #### I am a creator of bots in Discord, Website Creators
-![https://i.gifer.com/7Afe.gif]
+!(https://i.gifer.com/7Afe.gif)
 
 
 
