@@ -13,3 +13,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rockcii&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)  
+
+[![Spotify](spotify-now-playing13.vercel.app
+)](https://open.spotify.com/user/omnitenebris)
