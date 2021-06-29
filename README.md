@@ -14,6 +14,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)
 
