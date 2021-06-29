@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rockci
 #### I am a creator of bots in Discord, Website Creators
-![I am GitHub Readme Generator's creator](https://i.gifer.com/7Afe.gif)
+![https://i.gifer.com/7Afe.gif]
 
 
 
