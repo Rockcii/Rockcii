@@ -18,7 +18,7 @@ Skills: JavaScript / REACT / JS / HTML / CSS / С++
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)
-[![Generic badge](https://img.shields.io/badge/Github-Offline-<Green>)
+![Generic badge](https://img.shields.io/badge/Github-Offline-Green)
 
 
 
