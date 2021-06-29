@@ -3,7 +3,7 @@
 ![I am a creator of bots in Discord](https://cdn.discordapp.com/attachments/788810278196084746/859157258234888212/unnamed.jpg)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: JavaScript / REACT / JS / HTML / CSS / С++
 
 - 🔭 I’m currently working on this page. 
 
