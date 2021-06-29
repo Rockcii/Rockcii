@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Rockci
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)### Hi there 👋, my name is Rockci
 #### I am a creator of bots in Discord, Website Creators
 ![I am a creator of bots in Discord](https://cdn.discordapp.com/attachments/788810278196084746/859157258234888212/unnamed.jpg)
 
@@ -14,6 +14,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true)
 
 
