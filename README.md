@@ -7,7 +7,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-
+#### Social Networks
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rockcii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/4A3x84QUJf)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rockcii&show_icons=true)  
