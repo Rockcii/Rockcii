@@ -14,4 +14,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/Rockcii)  
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=p67wf0kpm7qqplo3qcm8fm555&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=p67wf0kpm7qqplo3qcm8fm555&cover_image=true&theme=default)]]
+
 
